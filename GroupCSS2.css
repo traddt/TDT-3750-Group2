@@ -1,0 +1,84 @@
+.main {
+	background-color: lightgrey;
+	width: 60%;
+	border: 15px solid green;
+	padding: 10%;
+	margin: 5%;
+}
+
+#spacer {
+	background-color: #ffffff;
+}
+
+#loadholder {
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#loader {
+	position: absolute;
+	top: 0px;
+	background-color: #808080;
+	z-index: 600;
+	width: 100vw;
+	height: 100vh;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#cloud1 {
+	font-size:48px;
+	color:red;
+}
+
+#cloud2 {
+	font-size:60px;
+	color:lightblue;
+}
+
+ul {
+	list-style-type: square;
+}
+
+ol.a {
+	list-style-type: lower-alpha;
+}
+
+ol.b {
+	list-style-type: upper-roman;
+}
+
+table {
+	float: right;
+	width: 50%;
+	border: 1px solid;
+}
+
+th, td {
+	width: 25%;
+	border: 1px solid;
+}
+
+header, article, footer {
+	border: 2px solid #ff0000;
+	padding-bottom: 10%
+}
+
+footer {
+	border-top: 0px;
+}
+
+article {
+	border-bottom: 0px;
+}
+
+.imgs {
+	float: left;
+	width: 50%;
+}
+
+.gal {
+	width: 20%;
+}
